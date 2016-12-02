@@ -1,0 +1,87 @@
+#car {
+	background-color: green;
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	border-radius: 20px;
+	position: relative;
+	top: 60px;
+}
+#left-wheel {
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	background-color: silver;
+	position: absolute;
+	border: 6px solid black;
+	top: 160px;
+	left: 20px;
+}
+#right-wheel {
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	background-color: silver;
+	position: absolute;
+	border: 6px solid black;
+	top: 160px;
+	left: 300px;
+}
+#window-one {
+	height: 60px;
+	width: 60px;
+	background-color: gray;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+#window-two {
+	height: 60px;
+	width: 60px;
+	background-color: gray;
+	position: absolute;
+	top: 10px;
+	left: 80px;
+}
+#window-three {
+	height: 60px;
+	width: 60px;
+	background-color: gray;
+	position: absolute;
+	top: 10px;
+	left: 150px;
+}
+#window-four {
+	height: 60px;
+	width: 60px;
+	background-color: gray;
+	position: absolute;
+	top: 10px;
+	left: 220px;
+}
+#primary-window {
+	height: 80px;
+	width: 90px;
+	background-color: gray;
+	position: absolute;
+	top: 10px;
+	left: 290px;
+}
+#headlight {
+	height: 20px;
+	width: 20px;
+	background-color: yellow;
+	position: absolute;
+	border-radius: 50%;
+	border: 2px solid black;
+	top: 100px;
+	left: 388px;
+}
+#text {
+	position: absolute;
+	top: 70px;
+	left: 80px;
+	font-size: 35px;
+	font-family: arial;
+	color: yellow;
+}
